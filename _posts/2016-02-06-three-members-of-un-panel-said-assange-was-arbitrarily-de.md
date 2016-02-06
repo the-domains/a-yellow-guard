@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - arbitrary
   - liberty
 description: "A U.N. panel has declared that Julian Assange, the WikiLeaks founder who has remained confined within the Ecuadorian Embassy in London since 2012, is being \"arbitrarily detained.\" The decision from the U.N.'s Working Group on Arbitrary Detention is not legally binding, though it carries significant weight."
-datePublished: '2016-02-06T05:25:19.350Z'
-dateModified: '2016-02-06T05:25:16.370Z'
+datePublished: '2016-02-06T05:43:18.932Z'
+dateModified: '2016-02-06T05:41:58.669Z'
 author:
   - name: Adam Taylor
     url: 'http://www.washingtonpost.com/people/adam-taylor'

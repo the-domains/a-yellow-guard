@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/chris-connolly-719529536/outside-in-podcast-feb-1-2015'
 inLanguage: null
 starred: false
 keywords: []
 description: "The first Yellow Guard / Outside In podcast! We're talking the Iowa caucuses, Donald Trump and Ted Cruz."
-datePublished: '2016-02-06T04:33:56.480Z'
-dateModified: '2016-02-06T04:33:53.953Z'
+datePublished: '2016-02-06T05:27:38.267Z'
+dateModified: '2016-02-06T05:27:34.401Z'
 author:
   - name: A Yellow Guard
     url: 'http://soundcloud.com/chris-connolly-719529536'
@@ -34,6 +33,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: outside-in-podcast-feb-1-2015-by-a-yellow-guard/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 

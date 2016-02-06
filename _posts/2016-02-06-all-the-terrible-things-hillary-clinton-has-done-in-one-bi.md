@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "By DOVER, N.H. (MarketWatch) - I have a confession to make: I can't keep up. Am I supposed to hate Hillary Rodham Clinton because she's too left-wing, or too right-wing? Because she's too feminist, or not feminist enough? Because she's too clever a politician, or too clumsy?"
-datePublished: '2016-02-06T05:14:56.239Z'
-dateModified: '2016-02-06T05:14:53.975Z'
+datePublished: '2016-02-06T05:25:24.416Z'
+dateModified: '2016-02-06T05:25:02.277Z'
 author:
   - name: Brett Arends
     url: 'http://www.marketwatch.com/topics/journalists/brett-arends'

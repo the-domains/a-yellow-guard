@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Analysis of the Republican Iowa caucus results and a look ahead to Iowa and the Democratic primary.
-datePublished: '2016-02-06T04:33:00.345Z'
-dateModified: '2016-02-06T04:32:54.448Z'
+datePublished: '2016-02-06T04:33:29.507Z'
+dateModified: '2016-02-06T04:33:27.752Z'
 author:
   - name: A Yellow Guard
     url: 'http://soundcloud.com/chris-connolly-719529536'
@@ -25,7 +25,7 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:245162352'
     type: android
-title: Outside In Episode 2 by A Yellow Guard
+title: A Yellow Guard / Outside In Podcast Episode 2
 sourcePath: _posts/2016-02-06-outside-in-episode-2-by-a-yellow-guard.md
 published: true
 authors: []

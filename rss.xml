@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Yellow Guard]]></title>
+        <description><![CDATA[A Yellow Guard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 03:08:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Bernie Sanders the Ted Cruz of the Democrats?]]></title>
+            <description><![CDATA[<h1>Is Bernie Sanders the Ted Cruz of the Democrats?</h1>]]></description>
+            <link>undefinedis-bernie-sanders-the-ted-cruz-of-the-democrats/index.html</link>
+            <guid isPermaLink="false">4fbc22a2-0989-4d92-8ca0-497e812d0a78</guid>
+            <pubDate>Sat, 06 Feb 2016 03:08:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

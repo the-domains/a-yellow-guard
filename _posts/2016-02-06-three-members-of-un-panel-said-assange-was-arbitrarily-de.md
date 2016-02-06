@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.washingtonpost.com/news/worldviews/wp/2016/02/05/three-members-of-u-n-panel-said-assange-was-arbitrarily-detained-one-didnt-heres-his-dissent/?wpmm=1&wpisrc=nl_wv'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - arbitrary
   - liberty
 description: "A U.N. panel has declared that Julian Assange, the WikiLeaks founder who has remained confined within the Ecuadorian Embassy in London since 2012, is being \"arbitrarily detained.\" The decision from the U.N.'s Working Group on Arbitrary Detention is not legally binding, though it carries significant weight."
-datePublished: '2016-02-06T05:21:13.411Z'
-dateModified: '2016-02-06T05:21:06.711Z'
+datePublished: '2016-02-06T05:25:19.350Z'
+dateModified: '2016-02-06T05:25:16.370Z'
 author:
   - name: Adam Taylor
     url: 'http://www.washingtonpost.com/people/adam-taylor'
@@ -34,6 +33,7 @@ publisher:
   domain: www.washingtonpost.com
   url: 'https://www.washingtonpost.com'
   favicon: 'https://www.washingtonpost.com/favicon.ico'
+url: three-members-of-un-panel-said-assange-was-arbitrarily-de/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -43,4 +43,4 @@ inhumane treatment, and physical harm, _then what flows from that holds a certai
 
 Nonetheless, the rest of us were left going "wait, what?"
 
-<article style=""><h1>Three members of U&amp;period;N&amp;period; panel said Assange was 'arbitrarily detained&amp;period;' One didn't&amp;period; Here's his dissent&amp;period;</h1><p>A U&amp;period;N&amp;period; panel has declared that Julian Assange&amp;comma; the WikiLeaks founder who has remained confined within the Ecuadorian Embassy in London since 2012&amp;comma; is being "arbitrarily detained&amp;period;" The decision from the U&amp;period;N&amp;period;'s Working Group on Arbitrary Detention is not legally binding&amp;comma; though it carries significant weight&amp;period;</p><img src="http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2016-02-05/AP/APTOPIX_Britain_Wikileaks_Assange-0ab9d.jpg" /></article>
+<article style=""><h1>Three members of U.N. panel said Assange was 'arbitrarily detained.' One didn't. Here's his dissent.</h1><p>A U.N. panel has declared that Julian Assange, the WikiLeaks founder who has remained confined within the Ecuadorian Embassy in London since 2012, is being "arbitrarily detained." The decision from the U.N.'s Working Group on Arbitrary Detention is not legally binding, though it carries significant weight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee15b1a6732f395c69cc4474e3a4ef400912fce.jpg" /></article>

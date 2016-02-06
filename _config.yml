@@ -1,5 +1,8 @@
+name: A Yellow Guard
+favicon: null
+layout_spectrum: 0.45134
+typography_spectrum: 0.43225
 title: A Yellow Guard - idle speculation from a highly uninformed source
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8566308
-  brandStrength: 0.7544803
-  lightness: 0.8566308
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#FCC128'
-    - '#909090'
-    - '#8FCC01'
-  rhythmicContrast: 0.2706093
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: A Yellow Guard
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.43225
-layout_spectrum: 0.45134
+color:
+  brandColors:
+    - '#ffffff'
+    - '#fbc03b'
+    - '#191c23'
+    - '#747474'
+    - '#d4d4d4'
+  brandStrength: 0.7544803
+  lightness: 0.8566308
+  saturation: 0.8566308
+  rhythmicContrast: 0.2706093
+purpose: []

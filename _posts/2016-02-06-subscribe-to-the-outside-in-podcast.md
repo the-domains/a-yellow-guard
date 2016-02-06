@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T04:51:20.999Z'
-dateModified: '2016-02-06T04:51:10.458Z'
+datePublished: '2016-02-06T04:54:49.063Z'
+dateModified: '2016-02-06T04:54:46.126Z'
 title: Subscribe to the Outside In podcast
 author: []
+sourcePath: _posts/2016-02-06-subscribe-to-the-outside-in-podcast.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-subscribe-to-the-outside-in-podcast.md
-published: true
 url: subscribe-to-the-outside-in-podcast/index.html
-_type: WebPage
+_type: Article
 
 ---
 Subscribe to the Yellow Guard / Outside In podcast on [iTunes][0] or [Soundcloud][1]

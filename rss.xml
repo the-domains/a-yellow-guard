@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Yellow Guard]]></title>
         <description><![CDATA[A Yellow Guard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-yellow-guard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 03:08:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 03:08:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-yellow-guard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sophisticated Trump]]></title>
+            <description><![CDATA[<article><h1>Sophisticated Trump</h1><p>What if Donald Trump had elocution lessons? All words verbatim.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d54b7934a585ce9871d3126df45d62f1e1dbbad.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qUGT30gGtiI</link>
+            <guid isPermaLink="false">17a3a53f-879f-40d5-a441-8be58c68502d</guid>
+            <pubDate>Sat, 06 Feb 2016 03:08:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Bernie Sanders the Ted Cruz of the Democrats?]]></title>
             <description><![CDATA[<h1>Is Bernie Sanders the Ted Cruz of the Democrats?</h1>]]></description>
-            <link>undefinedis-bernie-sanders-the-ted-cruz-of-the-democrats/index.html</link>
+            <link>https://thegrid.ai/a-yellow-guard/is-bernie-sanders-the-ted-cruz-of-the-democrats/index.html</link>
             <guid isPermaLink="false">4fbc22a2-0989-4d92-8ca0-497e812d0a78</guid>
             <pubDate>Sat, 06 Feb 2016 03:08:27 GMT</pubDate>
         </item>

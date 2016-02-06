@@ -1,6 +1,6 @@
 name: A Yellow Guard
 favicon: null
-layout_spectrum: 0.1545
+layout_spectrum: 0.71411
 typography_spectrum: 0.43225
 title: A Yellow Guard - idle speculation from a highly uninformed source
 cta:
@@ -22,8 +22,8 @@ color:
     - '#191c23'
     - '#747474'
     - '#d4d4d4'
-  brandStrength: 0.0625
+  brandStrength: 0.125
   lightness: 0.3125
-  saturation: 0.3125
+  saturation: 0.125
   rhythmicContrast: 0.25
 purpose: []

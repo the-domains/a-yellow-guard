@@ -17,8 +17,8 @@ keywords:
   - process
   - obama
 description: "Within hours of the death of Supreme Court Justice Antonin Scalia's death over the weekend, Senate Majority Leader Mitch McConnell drew a line in the sand: There would be no justice confirmed to the court until after the 2016 election."
-datePublished: '2016-02-18T14:20:41.656Z'
-dateModified: '2016-02-18T14:19:43.276Z'
+datePublished: '2016-02-18T14:24:14.051Z'
+dateModified: '2016-02-18T14:20:51.103Z'
 author:
   - name: Chris Cillizza
     url: 'http://www.washingtonpost.com/people/chris-cillizza'
